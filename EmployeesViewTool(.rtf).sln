@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesViewTool(.rtf)", "EmployeesViewTool(.rtf)\EmployeesViewTool(.rtf).csproj", "{633E5F15-59C8-4F52-A9E8-739B53F495B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633E5F15-59C8-4F52-A9E8-739B53F495B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633E5F15-59C8-4F52-A9E8-739B53F495B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633E5F15-59C8-4F52-A9E8-739B53F495B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633E5F15-59C8-4F52-A9E8-739B53F495B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB9364D-3201-426D-B1F6-32B6FCCA21D6}
+	EndGlobalSection
+EndGlobal

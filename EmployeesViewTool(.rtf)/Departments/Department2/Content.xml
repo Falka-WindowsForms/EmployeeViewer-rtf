@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name ="Department2">
+	<employee FIO="Masha Masha"></employee>
+	<employee FIO="Vasya Vasiliv2"></employee>
+	<employee FIO="Test test2"></employee>
+</root>
